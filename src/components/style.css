@@ -8,10 +8,14 @@ h1{
     /* height: 50px; */
     width: 50vh;
     /* background-color: bisque; */
-    position: absolute;
+    /* position: absolute;
     top: 20%;
-    left: 38%;
-
+    left: 38%; */
+    /* background-color: black; */
+    border: 1px solid black;
+    margin: auto;
+    
+    
 }
 .div-column{
     height: 5rem;
