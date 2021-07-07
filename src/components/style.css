@@ -1,0 +1,40 @@
+h1{
+
+    text-align: center;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+.main-div{
+    /* height: 50px; */
+    width: 50vh;
+    /* background-color: bisque; */
+    position: absolute;
+    top: 20%;
+    left: 38%;
+
+}
+.div-column{
+    height: 5rem;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+}
+span, button{
+    margin: auto;
+    font-size: 25px;
+
+    
+}
+button{
+    border: none;
+    color: green;
+    background-color: bisque;
+}
+select{
+    display: block;
+    padding: 10px 20px;
+    margin-left:auto ;
+    margin-top:1rem;
+    margin-right: 1rem;
+    font-size: large;
+}
